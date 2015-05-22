@@ -9,30 +9,10 @@ clone
 
 
 
-git clone
-git status
-git diff
-
 git push
 
 
-+++ b/README.md
-@@ -1,2 +1,3 @@
- # rep01
--rep01
-+
-+added 1
-
 nimda22@PJZENBOOK01 /p/GithubVCS/Rep01 (master)
-$ git diff
-diff --git a/README.md b/README.md
-index c7645d4..2f308ca 100644
---- a/README.md
-+++ b/README.md
-@@ -1,2 +1,3 @@
--# rep01
--rep01
-+# rep02
-+
-+added 1
+
+this is a new change from second developer
 
