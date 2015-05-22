@@ -9,7 +9,5 @@ clone
 
 
 
-git clone
-git status
-git diff
 
+this is a new change from second deveolloper
