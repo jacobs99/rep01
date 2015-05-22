@@ -1,0 +1,15 @@
+some text 01
+
+
+
+clone
+
+
+(pull -> make changes -> commit-> push) repeat
+
+
+
+git clone
+git status
+git diff
+
